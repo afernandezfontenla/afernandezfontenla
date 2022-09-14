@@ -3,6 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=afernandezfontenla.visitor-badge)
 <a href="https://github.com/afernandezfontenla" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=lat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/afernandezfontenla/" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/f4e942dd448a1cd61d6f5f05d1f3dc25f735847658ba04c7af1ea7abf7909f6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d6c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="GitHub"></a>
 
 <div align="center">
   <a href="https://github.com/afernandezfontenla"></a>
